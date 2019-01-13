@@ -36,7 +36,7 @@ void merge(long p,long q,long r) //void merge(long start,long mid,long last)
         }
     }
 }
-
+//hi hle
 
 void merge_sort(long p,long r)  //merge_sort(long star_point,long end_point)
 {
